@@ -1,4 +1,4 @@
 Repositories
 ========
 
-Simple Laravel Repository Class and Interface for FluentKit
+Simple Repository Class and Interface for FluentKit
